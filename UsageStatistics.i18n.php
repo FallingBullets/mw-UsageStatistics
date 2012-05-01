@@ -1319,12 +1319,13 @@ $messages['it'] = array(
  * @author Aotake
  * @author Fryed-peach
  * @author Hosiryuhosi
+ * @author Shirayuki
  * @author 青子守歌
  */
 $messages['ja'] = array(
 	'specialuserstats' => '利用統計',
 	'usagestatistics' => '利用統計',
-	'usagestatistics-desc' => '個々の利用者およびウィキ全体の利用統計を表示する',
+	'usagestatistics-desc' => '各利用者およびウィキ全体の利用統計を表示する',
 	'usagestatisticsfor' => '<h2>[[User:$1|$1]] の利用統計</h2>',
 	'usagestatisticsforallusers' => '<h2>全利用者の利用統計</h2>',
 	'usagestatisticsinterval' => '間隔:',
@@ -1338,7 +1339,7 @@ $messages['ja'] = array(
 	'usagestatisticssubmit' => '統計を生成',
 	'usagestatisticsnostart' => '開始日を指定してください',
 	'usagestatisticsnoend' => '終了日を指定してください',
-	'usagestatisticsbadstartend' => '<b><i>開始</i>および、あるいは<i>終了</i>の日付が不正です！</b>',
+	'usagestatisticsbadstartend' => '<b><i>開始</i>および/または<i>終了</i>の日付が正しくありません！</b>',
 	'usagestatisticsintervalday' => '日',
 	'usagestatisticsintervalweek' => '週',
 	'usagestatisticsintervalmonth' => '月',
@@ -1349,7 +1350,7 @@ $messages['ja'] = array(
 	'usagestatisticscalselect' => '選択',
 	'usagestatistics-editindividual' => '利用者の$1編集統計',
 	'usagestatistics-editpages' => '利用者の$1ページ統計',
-	'right-viewsystemstats' => '[[Special:UserStats|ウィキの利用統計]]を見る',
+	'right-viewsystemstats' => '[[Special:UserStats|ウィキの利用統計]]を閲覧',
 );
 
 /** Javanese (Basa Jawa)
