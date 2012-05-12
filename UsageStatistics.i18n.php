@@ -898,7 +898,7 @@ $messages['frp'] = array(
 	'usagestatistics' => 'Statistiques d’usâjo',
 	'usagestatistics-desc' => 'Montre les statistiques d’usâjo per usanciér et por l’ensemblo du vouiqui.',
 	'usagestatisticsfor' => '<h2>Statistiques d’usâjo por [[User:$1|$1]]</h2>',
-	'usagestatisticsforallusers' => '<h2>Statistiques d’usâjo por tôs los utilisators</h2>',
+	'usagestatisticsforallusers' => '<h2>Statistiques d’usâjo por tôs los usanciérs</h2>',
 	'usagestatisticsinterval' => 'Entèrvalo :',
 	'usagestatisticsnamespace' => 'Èspâço de noms :',
 	'usagestatisticsexcluderedirects' => 'Èxcllure les redirèccions',
@@ -1839,6 +1839,15 @@ $messages['pdc'] = array(
 	'usagestatisticsintervalmonth' => 'Munet',
 );
 
+/** Pälzisch (Pälzisch)
+ * @author Manuae
+ */
+$messages['pfl'] = array(
+	'usagestatisticsintervalday' => 'Daach',
+	'usagestatisticsintervalweek' => 'Woch',
+	'usagestatisticsintervalmonth' => 'Monad',
+);
+
 /** Polish (Polski)
  * @author Equadus
  * @author Leinad
@@ -2384,7 +2393,7 @@ $messages['tg-cyrl'] = array(
 	'usagestatisticscalselect' => 'Интихоб кардан',
 );
 
-/** Tajik (Latin script) (tojikī)
+/** Tajik (Latin script) (Tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -2537,7 +2546,7 @@ $messages['uk'] = array(
 	'right-viewsystemstats' => 'перегляд [[Special:UserStats|статистики використання вікі]]',
 );
 
-/** Veps (Vepsan kel')
+/** Veps (Vepsän kel’)
  * @author Triple-ADHD-AS
  * @author Игорь Бродский
  */
