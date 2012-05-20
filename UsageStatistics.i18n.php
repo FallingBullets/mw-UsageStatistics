@@ -1281,6 +1281,7 @@ $messages['is'] = array(
 );
 
 /** Italian (Italiano)
+ * @author Beta16
  * @author BrokenArrow
  * @author Darth Kule
  * @author Pietrodn
@@ -1296,7 +1297,7 @@ $messages['it'] = array(
 	'usagestatisticsexcluderedirects' => 'Escludi redirect',
 	'usagestatistics-namespace' => 'Queste sono statistiche sul namespace [[Special:Allpages/$1|$2]].',
 	'usagestatistics-noredirects' => 'I [[Special:ListRedirects|redirect]] non sono presi in considerazione.',
-	'usagestatisticstype' => 'Tipo',
+	'usagestatisticstype' => 'Tipo:',
 	'usagestatisticsstart' => 'Data di inizio:',
 	'usagestatisticsend' => 'Data di fine:',
 	'usagestatisticssubmit' => 'Genera statistiche',
