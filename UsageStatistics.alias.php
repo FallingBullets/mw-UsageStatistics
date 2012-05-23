@@ -26,6 +26,11 @@ $specialPageAliases['as'] = array(
 	'SpecialUserStats' => array( 'সদস্য_পৰিসংখ্যা', 'বিশেষ_সদস্য_পৰিসংখ্যা' ),
 );
 
+/** Banjar (Bahasa Banjar) */
+$specialPageAliases['bjn'] = array(
+	'SpecialUserStats' => array( 'Statistik_pamakai' ),
+);
+
 /** Breton (Brezhoneg) */
 $specialPageAliases['br'] = array(
 	'SpecialUserStats' => array( 'StadegoùImplijer' ),
@@ -39,6 +44,11 @@ $specialPageAliases['bs'] = array(
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'SpecialUserStats' => array( 'Benutzerstatistik' ),
+);
+
+/** Zazaki (Zazaki) */
+$specialPageAliases['diq'] = array(
+	'SpecialUserStats' => array( 'Karberİst', 'XısusiKarberİst' ),
 );
 
 /** Lower Sorbian (Dolnoserbski) */
