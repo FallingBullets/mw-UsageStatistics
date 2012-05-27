@@ -596,6 +596,16 @@ $messages['de'] = array(
 	'right-viewsystemstats' => '[[Special:UserStats|Benutzer-Nutzungsstatistiken]] sehen',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'usagestatisticsintervalday' => 'Roce',
+	'usagestatisticsintervalweek' => 'Hefte',
+	'usagestatisticsintervalmonth' => 'Aşme',
+	'usagestatisticscalselect' => 'Weçine',
+);
+
 /** Lower Sorbian (Dolnoserbski)
  * @author Michawiki
  */
