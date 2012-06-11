@@ -31,12 +31,12 @@ $specialPageAliases['bjn'] = array(
 	'SpecialUserStats' => array( 'Statistik_pamakai' ),
 );
 
-/** Breton (Brezhoneg) */
+/** Breton (brezhoneg) */
 $specialPageAliases['br'] = array(
 	'SpecialUserStats' => array( 'StadegoùImplijer' ),
 );
 
-/** Bosnian (Bosanski) */
+/** Bosnian (bosanski) */
 $specialPageAliases['bs'] = array(
 	'SpecialUserStats' => array( 'KorisnickeStatistike' ),
 );
@@ -66,12 +66,12 @@ $specialPageAliases['fa'] = array(
 	'SpecialUserStats' => array( 'آمار_کاربر' ),
 );
 
-/** French (Français) */
+/** French (français) */
 $specialPageAliases['fr'] = array(
 	'SpecialUserStats' => array( 'StatistiquesUtilisateur' ),
 );
 
-/** Franco-Provençal (Arpetan) */
+/** Franco-Provençal (arpetan) */
 $specialPageAliases['frp'] = array(
 	'SpecialUserStats' => array( 'Statistiques_usanciér', 'StatistiquesUsanciér' ),
 );
@@ -91,7 +91,7 @@ $specialPageAliases['gsw'] = array(
 	'SpecialUserStats' => array( 'Benutzerstatischtik' ),
 );
 
-/** Croatian (Hrvatski) */
+/** Croatian (hrvatski) */
 $specialPageAliases['hr'] = array(
 	'SpecialUserStats' => array( 'Statistika_uporabe' ),
 );
@@ -106,12 +106,12 @@ $specialPageAliases['ht'] = array(
 	'SpecialUserStats' => array( 'EstatistikItilizatè', 'EstatistikItilizatèEspesyal' ),
 );
 
-/** Hungarian (Magyar) */
+/** Hungarian (magyar) */
 $specialPageAliases['hu'] = array(
 	'SpecialUserStats' => array( 'Felhasználói_statisztika', 'Felhasználóstatisztika' ),
 );
 
-/** Interlingua (Interlingua) */
+/** Interlingua (interlingua) */
 $specialPageAliases['ia'] = array(
 	'SpecialUserStats' => array( 'Statisticas_de_usatores', 'Statisticas_special_de_usatores' ),
 );
@@ -121,7 +121,7 @@ $specialPageAliases['id'] = array(
 	'SpecialUserStats' => array( 'Statistik_pengguna', 'StatistikPengguna' ),
 );
 
-/** Italian (Italiano) */
+/** Italian (italiano) */
 $specialPageAliases['it'] = array(
 	'SpecialUserStats' => array( 'StatisticheUtente' ),
 );
@@ -136,6 +136,11 @@ $specialPageAliases['km'] = array(
 	'SpecialUserStats' => array( 'ស្ថិតិអ្នកប្រើប្រាស់' ),
 );
 
+/** Korean (한국어) */
+$specialPageAliases['ko'] = array(
+	'SpecialUserStats' => array( '사용자통계' ),
+);
+
 /** Colognian (Ripoarisch) */
 $specialPageAliases['ksh'] = array(
 	'SpecialUserStats' => array( 'Statistik vun fun de Metmaacher', 'Statistik vun fun de Medmaacher', 'Metmaacher ier Zahle', 'Medmaacher ier Zahle' ),
@@ -146,12 +151,12 @@ $specialPageAliases['lb'] = array(
 	'SpecialUserStats' => array( 'Benotzerstatistiken' ),
 );
 
-/** Lumbaart (Lumbaart) */
+/** lumbaart (lumbaart) */
 $specialPageAliases['lmo'] = array(
 	'SpecialUserStats' => array( 'StatistichDupradur' ),
 );
 
-/** Macedonian (Македонски) */
+/** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'SpecialUserStats' => array( 'СтатистикиЗаКорисник', 'СпецијалниСтатистикиЗаКорисник' ),
 );
@@ -166,7 +171,7 @@ $specialPageAliases['mr'] = array(
 	'SpecialUserStats' => array( 'सदस्यसांख्य्की', 'विशेषसदस्यसांख्य्की' ),
 );
 
-/** Norwegian Bokmål (‪Norsk (bokmål)‬) */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $specialPageAliases['nb'] = array(
 	'SpecialUserStats' => array( 'Brukerstatistikk' ),
 );
@@ -181,12 +186,12 @@ $specialPageAliases['nl'] = array(
 	'SpecialUserStats' => array( 'Gebruikersgegevens', 'Gebruikersstatistieken' ),
 );
 
-/** Occitan (Occitan) */
+/** Occitan (occitan) */
 $specialPageAliases['oc'] = array(
 	'SpecialUserStats' => array( 'EstatisticasUtilizaire' ),
 );
 
-/** Portuguese (Português) */
+/** Portuguese (português) */
 $specialPageAliases['pt'] = array(
 	'SpecialUserStats' => array( 'Estatísticas_de_utilizadores' ),
 );
@@ -196,17 +201,17 @@ $specialPageAliases['sa'] = array(
 	'SpecialUserStats' => array( 'सदस्यसांख्यिकी' ),
 );
 
-/** Slovak (Slovenčina) */
+/** Slovak (slovenčina) */
 $specialPageAliases['sk'] = array(
 	'SpecialUserStats' => array( 'ŠtatistikyPoužívateľov' ),
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬) */
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬) */
 $specialPageAliases['sr-ec'] = array(
 	'SpecialUserStats' => array( 'Статистика_корисника' ),
 );
 
-/** Swedish (Svenska) */
+/** Swedish (svenska) */
 $specialPageAliases['sv'] = array(
 	'SpecialUserStats' => array( 'Användarstatistik' ),
 );
@@ -231,7 +236,7 @@ $specialPageAliases['tr'] = array(
 	'SpecialUserStats' => array( 'Kullanıcıİstatistikleri', 'ÖzelKullanıcıİstatistikleri' ),
 );
 
-/** Vèneto (Vèneto) */
+/** vèneto (vèneto) */
 $specialPageAliases['vec'] = array(
 	'SpecialUserStats' => array( 'StatìstegheUtente' ),
 );
