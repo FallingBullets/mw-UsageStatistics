@@ -238,7 +238,7 @@ $messages['arz'] = array(
 	'usagestatistics-editpages' => 'إحصاءات صفحات اليوزر المنفرد $1',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Esbardu
  * @author Xuacu
  */
@@ -290,7 +290,7 @@ $messages['avk'] = array(
 	'usagestatisticsbadstartend' => '<b><i>Tozevlaja</i> ik <i>Tenevlaja</i> !</b>',
 );
 
-/** Belarusian (Беларуская)
+/** Belarusian (беларуская)
  * @author Тест
  */
 $messages['be'] = array(
@@ -334,7 +334,7 @@ $messages['be-tarask'] = array(
 	'right-viewsystemstats' => 'прагляд [[Special:UserStats|статыстыкі выкарыстаньня {{GRAMMAR:родны|{{SITENAME}}}}]]',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  * @author Spiritia
  */
@@ -385,7 +385,7 @@ $messages['bn'] = array(
 	'usagestatistics-editpages' => 'একক ব্যবহারকারী $1-এর পাতাগুলির পরিসংখ্যান',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -419,7 +419,7 @@ $messages['br'] = array(
 	'right-viewsystemstats' => 'Gwelet [[Special:UserStats|stadegoù implijout ar wiki]]',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -453,7 +453,7 @@ $messages['bs'] = array(
 	'right-viewsystemstats' => 'Pregledavanje [[Special:UserStats|statistika korištenja wikija]]',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Jordi Roqué
  * @author Qllach
  * @author SMP
@@ -490,7 +490,7 @@ $messages['ca'] = array(
 	'right-viewsystemstats' => "Veure [[Special:UserStats|estadístiques d'ús de la wiki]]",
 );
 
-/** Sorani (کوردی)
+/** Sorani Kurdish (کوردی)
  * @author Asoxor
  * @author Marmzok
  */
@@ -512,7 +512,7 @@ $messages['ckb'] = array(
 	'usagestatisticsintervalmonth' => 'مانگ',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Matěj Grabovský
  * @author Mormegil
  */
@@ -547,7 +547,7 @@ $messages['cs'] = array(
 	'right-viewsystemstats' => 'Prohlížení [[Special:UserStats|statistik využití wiki]]',
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Jon Harald Søby
  */
 $messages['da'] = array(
@@ -713,7 +713,7 @@ $messages['eo'] = array(
 	'right-viewsystemstats' => 'Vidi [[Special:UserStats|statistikojn pri vikia uzado]]',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Crazymadlover
  * @author Imre
  * @author Sanbec
@@ -749,7 +749,7 @@ $messages['es'] = array(
 	'right-viewsystemstats' => 'Ver [[Special:UserStats|estadísticas de uso del wiki]]',
 );
 
-/** Estonian (Eesti)
+/** Estonian (eesti)
  * @author Avjoska
  * @author Pikne
  */
@@ -774,7 +774,7 @@ $messages['et'] = array(
 	'usagestatisticscalselect' => 'Vali',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  * @author Kobazulo
  */
@@ -816,7 +816,7 @@ $messages['fa'] = array(
 	'usagestatisticscalselect' => 'انتخاب',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Cimon Avaro
  * @author Crt
  * @author Japsu
@@ -859,7 +859,7 @@ $messages['fi'] = array(
 	'right-viewsystemstats' => 'Tarkastella [[Special:UserStats|wikin käyttötilastoja]]',
 );
 
-/** French (Français)
+/** French (français)
  * @author Crochet.david
  * @author Grondin
  * @author IAlex
@@ -899,7 +899,7 @@ $messages['fr'] = array(
 	'right-viewsystemstats' => 'Voir les [[Special:UserStats|statistiques d’utilisation du wiki]]',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author Cedric31
  * @author ChrisPtDe
  */
@@ -1105,7 +1105,7 @@ $messages['hi'] = array(
 	'usagestatisticsintervalmonth' => 'महिना',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Dalibor Bosits
  * @author Dnik
  * @author Ex13
@@ -1173,7 +1173,7 @@ $messages['hsb'] = array(
 	'right-viewsystemstats' => '[[Special:UserStats|Wikijowu wužiwansku statistiku]] sej wobhladać',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Glanthor Reviol
  */
 $messages['hu'] = array(
@@ -1207,7 +1207,7 @@ $messages['hu'] = array(
 	'right-viewsystemstats' => 'A [[Special:UserStats|wiki használati statisztikáinak]] megjelenítése',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -1283,14 +1283,14 @@ $messages['io'] = array(
 	'usagestatisticsintervalday' => 'Dio',
 );
 
-/** Icelandic (Íslenska) */
+/** Icelandic (íslenska) */
 $messages['is'] = array(
 	'usagestatisticsintervalday' => 'Dagur',
 	'usagestatisticsintervalweek' => 'Vika',
 	'usagestatisticsintervalmonth' => 'Mánuður',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  * @author BrokenArrow
  * @author Darth Kule
@@ -1524,7 +1524,7 @@ $messages['lg'] = array(
 	'usagestatisticsnamespace' => 'Kuŋaanyizo:',
 );
 
-/** Latgalian (Latgaļu)
+/** Latgalian (latgaļu)
  * @author Dark Eagle
  */
 $messages['ltg'] = array(
@@ -1540,7 +1540,7 @@ $messages['lzz'] = array(
 	'usagestatisticsintervalmonth' => 'Tuta',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  * @author Brest
  */
@@ -1759,7 +1759,7 @@ $messages['nl'] = array(
 	'right-viewsystemstats' => '[[Special:UserStats|Wikigebruiksstatistieken]] bekijken',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Eirik
  * @author Frokor
  * @author Gunnernett
@@ -1795,7 +1795,7 @@ $messages['nn'] = array(
 	'right-viewsystemstats' => 'Vis [[Special:UserStats|wikibrukarstatistikk]]',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -1860,7 +1860,7 @@ $messages['pfl'] = array(
 	'usagestatisticsintervalmonth' => 'Monad',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Equadus
  * @author Leinad
  * @author McMonster
@@ -1952,7 +1952,7 @@ $messages['ps'] = array(
 	'usagestatisticscalselect' => 'ټاکل',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Giro720
  * @author Hamilton Abreu
  * @author Lijealso
@@ -1990,7 +1990,7 @@ $messages['pt'] = array(
 	'right-viewsystemstats' => 'Ver [[Special:UserStats|estatísticas de utilização da wiki]]',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  * @author Giro720
  * @author Luckas Blade
@@ -2026,7 +2026,7 @@ $messages['pt-br'] = array(
 	'right-viewsystemstats' => 'Ver [[Special:UserStats|estatísticas de utilização do wiki]]',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author Firilacroco
  * @author KlaudiuMihaila
  * @author Minisarm
@@ -2050,7 +2050,7 @@ $messages['ro'] = array(
 	'usagestatisticscalselect' => 'Selectați',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -2084,7 +2084,7 @@ $messages['roa-tara'] = array(
 	'right-viewsystemstats' => 'Vide le [[Special:UserStats|statisteche de utilizze de Uicchi]]',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Eleferen
  * @author Ferrer
  * @author Innv
@@ -2178,7 +2178,7 @@ $messages['si'] = array(
 	'right-viewsystemstats' => '[[Special:UserStats|විකි භාවිතා සංඛ්‍යා දත්ත]] බලන්න',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -2212,7 +2212,7 @@ $messages['sk'] = array(
 	'right-viewsystemstats' => 'Zobraziť [[Special:UserStats|štatistiku použitia wiki]]',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Жељко Тодоровић
  * @author Михајло Анђелковић
@@ -2245,7 +2245,7 @@ $messages['sr-ec'] = array(
 	'usagestatistics-editpages' => 'Статистике страница индивидуалних корисника $1',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Michaello
  * @author Rancher
  * @author Жељко Тодоровић
@@ -2308,7 +2308,7 @@ $messages['stq'] = array(
 	'usagestatistics-editpages' => 'Individuelle Siedenstatistike foar Benutser $1',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Lejonel
  * @author M.M.S.
  * @author Najami
@@ -2381,7 +2381,7 @@ $messages['te'] = array(
 	'right-viewsystemstats' => '[[Special:UserStats|వికీ వాడుక గణాంకాల]]ని చూడగలగటం',
 );
 
-/** Tajik (Cyrillic script) (Тоҷикӣ)
+/** Tajik (Cyrillic script) (тоҷикӣ)
  * @author Ibrahim
  */
 $messages['tg-cyrl'] = array(
@@ -2405,7 +2405,7 @@ $messages['tg-cyrl'] = array(
 	'usagestatisticscalselect' => 'Интихоб кардан',
 );
 
-/** Tajik (Latin script) (Tojikī)
+/** Tajik (Latin script) (tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -2523,7 +2523,7 @@ $messages['tr'] = array(
 	'usagestatisticscalselect' => 'Seç',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author A1
  * @author Prima klasy4na
  */
@@ -2660,7 +2660,7 @@ $messages['yi'] = array(
 	'usagestatisticscalselect' => 'אויסוויילן',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Gaoxuewei
  * @author PhiLiP
  * @author Wilsonmess
@@ -2693,7 +2693,7 @@ $messages['zh-hans'] = array(
 	'usagestatistics-editpages' => '用户$1统计分析',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Liangent
  * @author Mark85296341
  * @author Oapbtommy
