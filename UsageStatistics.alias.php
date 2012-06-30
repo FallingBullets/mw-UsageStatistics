@@ -51,7 +51,7 @@ $specialPageAliases['diq'] = array(
 	'SpecialUserStats' => array( 'Karberİst', 'XısusiKarberİst' ),
 );
 
-/** Lower Sorbian (Dolnoserbski) */
+/** Lower Sorbian (dolnoserbski) */
 $specialPageAliases['dsb'] = array(
 	'SpecialUserStats' => array( 'Wužywarska statistika' ),
 );
@@ -81,7 +81,7 @@ $specialPageAliases['gag'] = array(
 	'SpecialUserStats' => array( 'Kullanıcıİstatistikaları' ),
 );
 
-/** Galician (Galego) */
+/** Galician (galego) */
 $specialPageAliases['gl'] = array(
 	'SpecialUserStats' => array( 'Estatísticas_do_usuario' ),
 );
@@ -96,7 +96,7 @@ $specialPageAliases['hr'] = array(
 	'SpecialUserStats' => array( 'Statistika_uporabe' ),
 );
 
-/** Upper Sorbian (Hornjoserbsce) */
+/** Upper Sorbian (hornjoserbsce) */
 $specialPageAliases['hsb'] = array(
 	'SpecialUserStats' => array( 'Wužiwarska statistika' ),
 );
