@@ -149,7 +149,7 @@ $messages['am'] = array(
 	'usagestatisticsintervalmonth' => 'ወር',
 );
 
-/** Aragonese (Aragonés)
+/** Aragonese (aragonés)
  * @author Juanpabl
  */
 $messages['an'] = array(
@@ -297,7 +297,7 @@ $messages['be'] = array(
 	'usagestatisticstype' => 'Тып:',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  * @author Red Winged Duck
@@ -606,7 +606,7 @@ $messages['diq'] = array(
 	'usagestatisticscalselect' => 'Weçine',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -944,7 +944,7 @@ $messages['ga'] = array(
 	'usagestatisticsintervalmonth' => 'Mí',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Alma
  * @author Toliño
  * @author Xosé
@@ -1139,7 +1139,7 @@ $messages['hr'] = array(
 	'right-viewsystemstats' => 'Pogledaj [[Special:UserStats|wiki statistike korištenja]]',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
@@ -2122,7 +2122,7 @@ $messages['ru'] = array(
 	'right-viewsystemstats' => 'просмотр [[Special:UserStats|статистики использования вики]]',
 );
 
-/** Rusyn (Русиньскый)
+/** Rusyn (русиньскый)
  * @author Gazeb
  */
 $messages['rue'] = array(

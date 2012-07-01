@@ -196,6 +196,11 @@ $specialPageAliases['pt'] = array(
 	'SpecialUserStats' => array( 'Estatísticas_de_utilizadores' ),
 );
 
+/** Brazilian Portuguese (português do Brasil) */
+$specialPageAliases['pt-br'] = array(
+	'SpecialUserStats' => array( 'Estatísticas_de_usuários' ),
+);
+
 /** Sanskrit (संस्कृतम्) */
 $specialPageAliases['sa'] = array(
 	'SpecialUserStats' => array( 'सदस्यसांख्यिकी' ),
