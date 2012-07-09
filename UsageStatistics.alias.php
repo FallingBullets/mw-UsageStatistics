@@ -233,7 +233,7 @@ $specialPageAliases['th'] = array(
 
 /** Tagalog (Tagalog) */
 $specialPageAliases['tl'] = array(
-	'SpecialUserStats' => array( 'Mga estadistika ng tagagamit', 'Mga estadistika ng natatanging tagagamit' ),
+	'SpecialUserStats' => array( 'Mga_estadistika_ng_tagagamit', 'Mga_estadistika_ng_natatanging_tagagamit' ),
 );
 
 /** Turkish (Türkçe) */
