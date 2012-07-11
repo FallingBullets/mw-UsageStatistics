@@ -1661,7 +1661,7 @@ $messages['ms'] = array(
 	'right-viewsystemstats' => 'Melihat [[Special:UserStats|statistik penggunaan wiki]]',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
@@ -1677,8 +1677,7 @@ $messages['myv'] = array(
 	'usagestatisticscumulative-text' => 'весемезэ',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -2558,7 +2557,7 @@ $messages['uk'] = array(
 	'right-viewsystemstats' => 'перегляд [[Special:UserStats|статистики використання вікі]]',
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Triple-ADHD-AS
  * @author Игорь Бродский
  */
