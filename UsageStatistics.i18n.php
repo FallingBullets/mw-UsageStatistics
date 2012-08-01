@@ -387,6 +387,7 @@ $messages['bn'] = array(
 
 /** Breton (brezhoneg)
  * @author Fulup
+ * @author Y-M D
  */
 $messages['br'] = array(
 	'specialuserstats' => 'Stadegoù implijout',
@@ -399,7 +400,7 @@ $messages['br'] = array(
 	'usagestatisticsexcluderedirects' => 'Lezel an adkasoù er-maez',
 	'usagestatistics-namespace' => 'Stadegoù war an esaouenn anv [[Special:Allpages/$1|$2]] eo ar re-mañ.',
 	'usagestatistics-noredirects' => "N'eo ket kemeret an [[Special:ListRedirects|Adkasoù]] e kont.",
-	'usagestatisticstype' => 'Seurt',
+	'usagestatisticstype' => 'Seurt :',
 	'usagestatisticsstart' => 'Deiziad kregiñ :',
 	'usagestatisticsend' => 'Deiziad echuiñ :',
 	'usagestatisticssubmit' => 'Sevel ar stadegoù',
