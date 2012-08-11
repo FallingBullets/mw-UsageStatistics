@@ -645,6 +645,7 @@ $messages['dsb'] = array(
  * @author Consta
  * @author Crazymadlover
  * @author Dada
+ * @author Geraki
  * @author Omnipaedista
  * @author ZaDiak
  * @author Απεργός
@@ -652,7 +653,7 @@ $messages['dsb'] = array(
 $messages['el'] = array(
 	'specialuserstats' => 'Στατιστικά χρήσης',
 	'usagestatistics' => 'Στατιστικά χρήσης',
-	'usagestatistics-desc' => 'Προβολή στατιστικών χρήσης για το μεμονωμένο χρήστη αλλά και για το σύνολο του βίκι',
+	'usagestatistics-desc' => 'Προβολή στατιστικών χρήσης για το μεμονωμένο χρήστη αλλά και για το σύνολο του wiki',
 	'usagestatisticsfor' => '<h2>Στατιστικά χρήσης για τον [[User:$1|$1]]</h2>',
 	'usagestatisticsforallusers' => '<h2>Στατιστικά χρήσης για όλους τους χρήστες</h2>',
 	'usagestatisticsinterval' => 'Διάστημα:',
@@ -677,7 +678,7 @@ $messages['el'] = array(
 	'usagestatisticscalselect' => 'Επιλέξτε',
 	'usagestatistics-editindividual' => 'Μεμονωμένα στατιστικά επεξεργασιών του χρήστη $1',
 	'usagestatistics-editpages' => 'Μεμονωμένα στατιστικά σελίδων του χρήστη $1',
-	'right-viewsystemstats' => 'Εμφάνιση [[Special:UserStats|στατιστικών χρήσης του βίκι]]',
+	'right-viewsystemstats' => 'Εμφάνιση [[Special:UserStats|στατιστικών χρήσης του wiki]]',
 );
 
 /** Esperanto (Esperanto)
