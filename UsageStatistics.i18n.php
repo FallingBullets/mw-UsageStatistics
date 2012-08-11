@@ -1397,6 +1397,22 @@ $messages['jv'] = array(
 	'usagestatistics-editpages' => 'Statistik kaca panganggo individual $1',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'usagestatisticsinterval' => 'ინტერვალი:',
+	'usagestatisticsnamespace' => 'სახელთა სივრცე:',
+	'usagestatisticstype' => 'ტიპი:',
+	'usagestatisticsstart' => 'დაწყების თარიღი:',
+	'usagestatisticsend' => 'დასრულების თარიღი:',
+	'usagestatisticsbadstartend' => '<b>არასწორი <i>საწყისი</i> და/ან <i>საბოლოო</i> თარიღი!</b>',
+	'usagestatisticsintervalday' => 'დღე',
+	'usagestatisticsintervalweek' => 'კვირა',
+	'usagestatisticsintervalmonth' => 'თვე',
+	'usagestatisticscalselect' => 'არჩევა',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author Chhorran
  * @author Lovekhmer
