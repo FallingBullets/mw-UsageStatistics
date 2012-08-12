@@ -2364,6 +2364,20 @@ $messages['sv'] = array(
 	'right-viewsystemstats' => 'Visa [[Special:UserStats|wikianvändningsstatistik]]',
 );
 
+/** Tamil (தமிழ்)
+ * @author Karthi.dr
+ */
+$messages['ta'] = array(
+	'usagestatisticsinterval' => 'இடைவெளி:',
+	'usagestatisticsnamespace' => 'பெயர்வெளி:',
+	'usagestatisticsstart' => 'தொடக்க நாள்:',
+	'usagestatisticsend' => 'முடிவு நாள்:',
+	'usagestatisticsintervalday' => 'நாள்',
+	'usagestatisticsintervalweek' => 'வாரம்',
+	'usagestatisticsintervalmonth' => 'மாதம்',
+	'usagestatisticscalselect' => 'தேர்வு செய்',
+);
+
 /** Telugu (తెలుగు)
  * @author Chaduvari
  * @author Kiranmayee
