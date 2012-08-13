@@ -1401,16 +1401,31 @@ $messages['jv'] = array(
  * @author David1010
  */
 $messages['ka'] = array(
+	'specialuserstats' => 'გამოყენების სტატისტიკა',
+	'usagestatistics' => 'გამოყენების სტატისტიკა',
+	'usagestatisticsfor' => '<h2>გამოყენების სტატისტიკა [[User:$1|$1]]-თვის</h2>',
+	'usagestatisticsforallusers' => '<h2>გამოყენების სტატისტიკა ყველა მომხმარებელისათვის</h2>',
 	'usagestatisticsinterval' => 'ინტერვალი:',
 	'usagestatisticsnamespace' => 'სახელთა სივრცე:',
+	'usagestatisticsexcluderedirects' => 'გადამისამართებების გამორიცხვა',
 	'usagestatisticstype' => 'ტიპი:',
 	'usagestatisticsstart' => 'დაწყების თარიღი:',
 	'usagestatisticsend' => 'დასრულების თარიღი:',
+	'usagestatisticssubmit' => 'სტატისტიკის ფორმირება',
+	'usagestatisticsnostart' => 'გთხოვთ, მიუთითეთ დაწყების თარიღი',
+	'usagestatisticsnoend' => 'გთხოვთ, მიუთითეთ დასრულების თარიღი',
 	'usagestatisticsbadstartend' => '<b>არასწორი <i>საწყისი</i> და/ან <i>საბოლოო</i> თარიღი!</b>',
 	'usagestatisticsintervalday' => 'დღე',
 	'usagestatisticsintervalweek' => 'კვირა',
 	'usagestatisticsintervalmonth' => 'თვე',
+	'usagestatisticsincremental' => 'მზარდი',
+	'usagestatisticsincremental-text' => 'მზარდი',
+	'usagestatisticscumulative' => 'მთლიანი',
+	'usagestatisticscumulative-text' => 'მთლიანი',
 	'usagestatisticscalselect' => 'არჩევა',
+	'usagestatistics-editindividual' => 'სტატისტიკა $1 ინდივიდუალური რედაქტირებებისათვის',
+	'usagestatistics-editpages' => 'სტატისტიკა $1 მომხმარებელთა გვერდებისათვის',
+	'right-viewsystemstats' => 'იხილეთ [[Special:UserStats|ვიკის გამოყენების სტატისტიკა]]',
 );
 
 /** Khmer (ភាសាខ្មែរ)
