@@ -938,8 +938,10 @@ $messages['frp'] = array(
 
 /** Irish (Gaeilge)
  * @author Alison
+ * @author පසිඳු කාවින්ද
  */
 $messages['ga'] = array(
+	'usagestatisticsnamespace' => 'Ainmspás:',
 	'usagestatisticstype' => 'Saghas',
 	'usagestatisticsintervalday' => 'Lá',
 	'usagestatisticsintervalweek' => 'Seachtain',
