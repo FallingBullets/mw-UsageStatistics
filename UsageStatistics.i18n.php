@@ -2606,6 +2606,14 @@ $messages['uk'] = array(
 	'right-viewsystemstats' => 'перегляд [[Special:UserStats|статистики використання вікі]]',
 );
 
+/** Urdu (اردو)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ur'] = array(
+	'usagestatisticsintervalday' => 'دن',
+	'usagestatisticscalselect' => 'منتخب کریں',
+);
+
 /** Veps (vepsän kel’)
  * @author Triple-ADHD-AS
  * @author Игорь Бродский
