@@ -1332,6 +1332,7 @@ $messages['it'] = array(
 );
 
 /** Japanese (日本語)
+ * @author 2nd-player
  * @author Aotake
  * @author Fryed-peach
  * @author Hosiryuhosi
@@ -1348,7 +1349,7 @@ $messages['ja'] = array(
 	'usagestatisticsnamespace' => '名前空間：',
 	'usagestatisticsexcluderedirects' => 'リダイレクトを除く',
 	'usagestatistics-namespace' => 'これは[[Special:Allpages/$1|$2]]名前空間における統計です。',
-	'usagestatistics-noredirects' => '[[Special:ListRedirects|リダイレクト]]は数に入っていません。',
+	'usagestatistics-noredirects' => '[[Special:ListRedirects|転送ページ]]は数に入っていません。',
 	'usagestatisticstype' => 'タイプ：',
 	'usagestatisticsstart' => '開始日：',
 	'usagestatisticsend' => '終了日：',
