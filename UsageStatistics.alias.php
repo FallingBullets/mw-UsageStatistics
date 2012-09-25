@@ -171,7 +171,7 @@ $specialPageAliases['mr'] = array(
 	'SpecialUserStats' => array( 'सदस्यसांख्य्की', 'विशेषसदस्यसांख्य्की' ),
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $specialPageAliases['nb'] = array(
 	'SpecialUserStats' => array( 'Brukerstatistikk' ),
 );
@@ -211,7 +211,7 @@ $specialPageAliases['sk'] = array(
 	'SpecialUserStats' => array( 'ŠtatistikyPoužívateľov' ),
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬) */
+/** Serbian (Cyrillic script) (српски (ћирилица)‎) */
 $specialPageAliases['sr-ec'] = array(
 	'SpecialUserStats' => array( 'Статистика_корисника' ),
 );
