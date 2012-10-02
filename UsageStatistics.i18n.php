@@ -297,7 +297,7 @@ $messages['be'] = array(
 	'usagestatisticstype' => 'Тып:',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  * @author Red Winged Duck
@@ -1060,7 +1060,7 @@ $messages['gu'] = array(
 	'right-viewsystemstats' => 'જુઓ [[Special:UserStats|વિકિ વપરાશના આંકડા]]',
 );
 
-/** Hausa (هَوُسَ) */
+/** Hausa (Hausa) */
 $messages['ha'] = array(
 	'usagestatisticsnamespace' => 'Sararin suna:',
 );
@@ -1509,7 +1509,7 @@ $messages['ksh'] = array(
 	'right-viewsystemstats' => 'Dem [[Special:UserStats|Wiki sing Jebruchs_Shtatistike]] aanloore',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  */
 $messages['ku-latn'] = array(
@@ -1713,7 +1713,7 @@ $messages['myv'] = array(
 	'usagestatisticscumulative-text' => 'весемезэ',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1794,7 +1794,7 @@ $messages['nl'] = array(
 	'right-viewsystemstats' => '[[Special:UserStats|Wikigebruiksstatistieken]] bekijken',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Eirik
  * @author Frokor
  * @author Gunnernett
@@ -2247,7 +2247,7 @@ $messages['sk'] = array(
 	'right-viewsystemstats' => 'Zobraziť [[Special:UserStats|štatistiku použitia wiki]]',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Жељко Тодоровић
  * @author Михајло Анђелковић
@@ -2280,7 +2280,7 @@ $messages['sr-ec'] = array(
 	'usagestatistics-editpages' => 'Статистике страница индивидуалних корисника $1',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  * @author Rancher
  * @author Жељко Тодоровић
@@ -2717,7 +2717,7 @@ $messages['yi'] = array(
 	'usagestatisticscalselect' => 'אויסוויילן',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Gaoxuewei
  * @author PhiLiP
  * @author Wilsonmess
@@ -2750,7 +2750,7 @@ $messages['zh-hans'] = array(
 	'usagestatistics-editpages' => '用户$1统计分析',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Liangent
  * @author Mark85296341
  * @author Oapbtommy
